@@ -19,6 +19,7 @@ Bissau ou Bissao est une ville d’Afrique de l’Ouest, capitale de la Guinée-
 - Pays : 🇬🇼 Guinée-Bissau
 - [wikipedia](https://fr.wikipedia.org/wiki/Bissau)
 - Site : 
+- Portail : https://bissau.netlify.app
 - Facebook : 
 - Twitter : 
 
@@ -29,6 +30,7 @@ Dan-Kassari est une commune rurale du Niger appartenant au département de Dogon
 - Pays : 🇳🇪 Niger
 - [wikipedia](https://fr.wikipedia.org/wiki/Dan-Kassari)
 - Site : 
+- Portail : https://dan-kassari.netlify.app
 - Facebook : https://www.facebook.com/Commune-de-Dan-Kassari-111552651310132/
 - Twitter : 
 
@@ -39,6 +41,7 @@ Fass fait partie de l’arrondissement de Dakar Plateau dans le département de 
 - Pays : 🇸🇳 Sénégal
 - [wikipedia](https://fr.wikipedia.org/wiki/Fass)
 - Site : 
+- Portail : https://fass-sn.netlify.app 
 - Facebook : https://www.facebook.com/fasscolobanne
 - Twitter : https://twitter.com/ColobaneFass
 
@@ -49,6 +52,7 @@ Kouroussa est une ville de Guinée, située en Haute-Guinée. Elle accueille le 
 - Pays : 🇬🇳 Guinée
 - [wikipedia](https://fr.wikipedia.org/wiki/Kouroussa)
 - Site : 
+- Portail : https://kouroussa.netlify.app
 - Facebook : https://www.facebook.com/kouroussamairie
 - Twitter : https://twitter.com/kouroussamairie
 
@@ -59,6 +63,7 @@ Un carrefour commercial dans le Fouta Djalon
 - Pays : 🇬🇳 Guinée
 - [wikipedia](https://fr.wikipedia.org/wiki/Lab%C3%A9)
 - Site : https://www.communelabe.org
+- Portail : 
 - Facebook : https://www.facebook.com/CommunedeLabe/
 - Twitter : https://twitter.com/CommuneLabe
 
@@ -69,6 +74,7 @@ Matankari est une commune rurale du Niger située à environ 15 km au Nord de Do
 - Pays 🇳🇪 Niger
 - [wikipedia](https://fr.wikipedia.org/wiki/Matankari)
 - Site : 
+- Portail : https://matankari.netlify.app
 - Facebook : https://www.facebook.com/communematankari
 - Twitter : https://twitter.com/MairieMatankari
 
@@ -79,5 +85,6 @@ Rufisque est une ville du Sénégal, chef-lieu du département de Rufisque, dans
 - Pays : 🇸🇳 Sénégal
 - [wikipedia](https://fr.wikipedia.org/wiki/Rufisque)
 - Site : https://mairiederufisque.org
+- Portail : 
 - Facebook : 
 - Twitter : 
